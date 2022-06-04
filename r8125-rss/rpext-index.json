@@ -1,0 +1,14 @@
+{
+  "id": "crwnet.r8125-rss",
+  "url": "https://raw.githubusercontent.com/crwnet/rp-ext/master/r8125-rss/rpext-index.json",
+  "info": {
+    "name": "r8125",
+    "description": "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support with RSS",
+    "author_url": "https://github.com/crwnet",
+    "packer_url": "<todo>",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3622xsp_42661": "https://raw.githubusercontent.com/crwnet/rp-ext/master/r8125-rss/releases/ds3622xsp_42661.json"
+  }
+}
